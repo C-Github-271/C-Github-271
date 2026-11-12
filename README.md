@@ -24,17 +24,6 @@ Rather than relying on unconstrained prompts, I design **fault-tolerant, determi
 
 ---
 
-### **Tech Stack & Core Toolkit**
-
-| Domain | Technologies & Frameworks |
-| :--- | :--- |
-| **AI Architecture** | LangGraph, Python, Local Models (Ollama), Multi-Agent Systems, Pydantic |
-| **Resilience & Governance** | DORA Compliance, Enterprise Risk Management, ITSM, Audit Readiness |
-| **Cloud & Operations** | Azure, Cloud Infrastructure Governance, Service Delivery Management |
-| **Workflow Automation** | Asynchronous Python Systems, REST APIs, JSON State Management |
-
----
-
 ### **Current Projects**
 
 * UK & EU Resilience Library & Compliance tool
